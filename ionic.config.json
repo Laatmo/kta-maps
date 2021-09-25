@@ -1,0 +1,8 @@
+{
+  "name": "KTAMaps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "04cd7557"
+}
